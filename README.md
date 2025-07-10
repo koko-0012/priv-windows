@@ -42,7 +42,11 @@ You would get something like this
 
 paste - slmgr /skms kms8.msguides.com
 
+Enter
+
 paste - slmgr /ato
+
+Enter 
 
 and end infomation of these 2 will be 
 
